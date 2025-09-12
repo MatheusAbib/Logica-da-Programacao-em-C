@@ -1,8 +1,8 @@
 # 📘 Projetos em C
 
 Este repositório reúne diversos exercícios e projetos que desenvolvi em **C** durante meu aprendizado da linguagem.  
-O objetivo principal é praticar lógica de programação e aplicar conceitos fundamentais que servem de base para qualquer desenvolvedor.
-Pretendo sempre atualizar ele conforme eu faça novos projetos.
+O objetivo principal é praticar lógica de programação e aplicar conceitos fundamentais que servem de base para qualquer desenvolvedor.  
+Pretendo sempre atualizar o repositório conforme novos projetos forem criados.
 
 ---
 
@@ -40,14 +40,18 @@ Pretendo sempre atualizar ele conforme eu faça novos projetos.
 
 ## 🎯 Objetivo
 
-A ideia desse repositório é registrar minha evolução no estudo de **C**.  
-Ele reflete a prática da lógica de programação e serve como base sólida para aprender outras linguagens e aprofundar em estruturas mais complexas.
+Registrar minha evolução no estudo da linguagem **C**, refletindo a prática da lógica de programação e criando uma base sólida para aprender outras linguagens e estruturas mais complexas.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Linguagem **C** (e alguns testes em **C++**)
-- Compilador **DEV C++**  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /> 
+</div>
 
 ---
+
+
+
