@@ -2,8 +2,6 @@
 
 Este repositório reúne diversos exercícios e projetos que desenvolvi em **C** durante meu aprendizado da linguagem.  
 O objetivo principal é praticar lógica de programação e aplicar conceitos fundamentais que servem de base para qualquer desenvolvedor.  
-Pretendo sempre atualizar o repositório conforme novos projetos forem criados.
-
 ---
 
 ## 🚀 O que foi desenvolvido
@@ -35,12 +33,6 @@ Pretendo sempre atualizar o repositório conforme novos projetos forem criados.
 
 - **Mini projetos completos**  
   - Exercícios mais elaborados que unem vários conceitos aprendidos  
-
----
-
-## 🎯 Objetivo
-
-Registrar minha evolução no estudo da linguagem **C**, refletindo a prática da lógica de programação e criando uma base sólida para aprender outras linguagens e estruturas mais complexas.
 
 ---
 
